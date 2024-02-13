@@ -1,1 +1,6 @@
 .venv/
+fairy_tales/checker.py
+data/
+
+.DS_Store
+.idea/
