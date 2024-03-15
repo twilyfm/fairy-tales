@@ -1,6 +1,10 @@
 .venv/
-fairy_tales/checker.py
-data/
-
 .DS_Store
 .idea/
+
+outputs/
+data/
+conf/
+
+fairy_tales/checker.py
+fairy_tales/outputs
